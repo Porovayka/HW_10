@@ -10,7 +10,7 @@
    10  ls -l
    11  git status
    12  git commit -m "Add new file text_ignore.txt and apdate .gitignore"
-   13  200~touch main_test.txt
+   13  touch main_test.txt
    14  touch main_test.txt
    15  git add .
    16  git commit -m "Add empty file main_test.txt
