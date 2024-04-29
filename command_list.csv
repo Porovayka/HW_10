@@ -25,7 +25,7 @@
    25  git add develop_test.txt
    26  git commit -m "Add word Hello"
    27  git push origin develop
-   28  git checkout mail
+   28  git checkout main
    29  git checkout main
    30  git merge develop
    31  git log
